@@ -1,1 +1,14 @@
-
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.tsomac3.twa",
+      "sha256_cert_fingerprints": [
+        "47:22:0B:CF:8B:C7:90:33:20:75:C3:C7:DB:91:2C:7C:98:4D:3B:88:9C:CF:19:AD:16:E0:C4:83:6C:7C:23:F2"
+      ]
+    }
+  }
+]
